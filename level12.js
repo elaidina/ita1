@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jag ska göra ett te till dig.'
+      img: 'Ti preparo un tè.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Han har ont i halsen och huvudvärk.'
+      img: 'Ha mal di gola e mal di testa.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'De har alla ont i magen.'
+      img: 'Hanno tutti mal di pancia.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vad är det med mig?'
+      img: "Cosa c'è che non va in me?"
     },
     {
       name: '5',

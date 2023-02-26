@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Det är svårt att teckna.'
+      img: 'Disegnare è difficile.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hur bygger man ett hus?'
+      img: 'Come si costruisce una casa?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Huset består av väggar, tak, fönster, skorsten, staket och dörr.'
+      img: 'La casa è composta da muri, un tetto, finestre, un camino, un recinto e una porta.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Den blå bollen är större än den röda bollen.'
+      img: 'La pallina blu è più grande della pallina rossa.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Vilken boll är störst?'
+      img: 'Quale palla è la più grande?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jag skulle vilja lära mig en engelsk låt.'
+      img: 'Vorrei imparare una canzone inglese.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Vi kan ringa Mary.'
+      img: 'Possiamo chiamare Mary.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Hon är en väldigt bra sångerska.'
+      img: 'È una cantante molto brava.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Hör du, kan du den här låten?'
+      img: 'Senti, conosci questa canzone?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Det ligger en lysande bok på hyllan.'
+      img: "C'è un libro brillante sullo scaffale."
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jag läser ofta den här boken.'
+      img: 'Leggo spesso questo libro.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jag är för kort för att nå boken i hyllan.'
+      img: 'Sono troppo basso per raggiungere il libro sullo scaffale.'
     }
   ]
 
