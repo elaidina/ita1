@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'De är väldigt smutsiga och feta men också roliga.'
+      img: 'Sono molto sporchi e grassi ma anche divertenti.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'De gillar att leka i leran.'
+      img: 'A loro piace giocare nel fango.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Barnen gillar att leka på gården.'
+      img: 'Ai bambini piace giocare in giardino.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'De ser fram emot att få bygga en koja.'
+      img: "Non vedono l'ora di costruire una capanna."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'De behöver en hammare, spikar och plankor.'
+      img: 'Hanno bisogno di un martello, chiodi e assi.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jag skulle vilja hjälpa dem att hamra plankorna.'
+      img: 'Mi piace aiutarli a martellare le assi.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hjälp oss hellre att hamra på spikarna.'
+      img: 'Aiutaci piuttosto a martellare i chiodi.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Hur tycker du om den färdiga kojan?'
+      img: 'Ti piace la capanna finita?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Det är den bästa stugan någonsin.'
+      img: 'È la migliore capanna di sempre.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Det är en härlig varm dag.'
+      img: 'È una bella giornata calda.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Barnen är vid floden.'
+      img: 'I bambini sono sulla riva del fiume.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Det är mycket sand överallt.'
+      img: "C'è molta sabbia ovunque."
     }
   ]
 

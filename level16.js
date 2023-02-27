@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'De ser fram emot att träffa sin mormor.'
+      img: "Non vedono l'ora di vedere la loro nonna."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hennes by ligger inte långt från staden.'
+      img: 'Il suo villaggio non è lontano dalla città.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Vi följer med dem.'
+      img: 'Stiamo arrivando con loro.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Kan du vänta på oss?'
+      img: 'Puoi aspettarci?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Jag måste fråga alla.'
+      img: 'Jag måste fråga allaDevo chiedere a tutti.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Vi ska åka genom stan.'
+      img: 'Attraverseremo la città.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Vi kommer att kunna se massor av bilar, butiker och stora hus.'
+      img: 'Potremo vedere molte macchine, negozi e grandi case.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Det är mycket folk på gatorna.'
+      img: "C'è molta gente per strada."
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Visa mig vägen, snälla.'
+      img: 'Mostrami la strada, per favore.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Gå rakt fram och sväng sedan vänster.'
+      img: 'Vai dritto e poi gira a sinistra.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Sväng höger vid den gigantiska bron."'
+      img: 'Svolta a destra al ponte gigante.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Det finns min favoritbutik till höger och en kyrka till vänster.'
+      img: "C'è il mio negozio preferito sulla destra e una chiesa sulla sinistra."
     }
   ]
 

@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Vi måste stanna hemma.'
+      img: 'Dobbiamo restare a casa.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jag vill inte bli förkyld.'
+      img: 'Non voglio prendere un raffreddore.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Jag fortsätter att äta mycket frukt och grönsaker och dricka varmt te med citron och honung.'
+      img: 'Continuo a mangiare molta frutta e verdura e a bere tè caldo con limone e miele.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Torka näsan med en näsduk.'
+      img: 'Puliti il naso con un fazzoletto.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Kom tillsammans med mig.'
+      img: 'Vieni con me.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Du kan hjälpa mig om du vill.'
+      img: 'Puoi aiutarmi se vuoi.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Hon kommer tillbaka på eftermiddagen.'
+      img: 'Tornerà nel pomeriggio.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jag vill titta på tv på kvällen.'
+      img: 'Voglio guardare la TV la sera.'
     }
   ]
 

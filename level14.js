@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Rör det sig?'
+      img: 'Si muove?'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hur går du till skolan?'
+      img: 'Come vai a scuola?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Till fots, med buss, spårvagn eller bil?'
+      img: '"A piedi, in autobus, in tram o in macchina?'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi ska göra en sallad i köket.'
+      img: "Faremo un'insalata in cucina."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Vi behöver en kniv, en sked, en skål, morötter, en gurka, en kål, ärtor, lite socker och citronsaft.'
+      img: "Abbiamo bisogno di un coltello, un cucchiaio, una scodella, carote, un cetriolo, un cavolo, piselli, un po' di zucchero e succo di limone."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Först skär vi grönsakerna.'
+      img: 'Prima tagliamo le verdure.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Då blandar vi ihop alla ingredienser.'
+      img: 'Poi mescoliamo tutti gli ingredienti insieme.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Äntligen lägger vi allt på tallrikar.'
+      img: 'Finalmente, mettiamo tutto nei piatti.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Saladen är väldigt god.'
+      img: "L'insalata è molto gustosa."
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Mitt rum är i en enda röra.'
+      img: 'La mia stanza è in disordine.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Det finns kläder överallt.'
+      img: 'Ci sono vestiti dappertutto.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Alla mina böcker och leksaker ligger på golvet.'
+      img: 'Tutti i miei libri e giocattoli sono sul pavimento.'
     }
   ]
 
