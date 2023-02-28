@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jag gillar sommaren för pappa köper massor av glass till mig.'
+      img: "Mi piace l'estate perché papà mi compra tanti gelati."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Skogen är väldigt färgglad på hösten.'
+      img: 'La foresta è molto colorata in autunno.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Åkrarna, kullarna, husen och träden är täckta av snö på vintern.'
+      img: 'I campi, le colline, le case e gli alberi sono coperti di neve in inverno.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi gör en snögubbe med mina vänner.'
+      img: 'Facciamo un pupazzo di neve con i miei amici.'
     },
     {
       name: '5',
@@ -39,15 +39,15 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Min moster matar sina höns och ankor med majs och vete.'
+      img: 'Mia zia nutre le sue galline e anatre con mais e grano.'
     },
     {
       name: '6',
-      img: 'She pours some milk into ints bowl.'
+      img: 'She pours some milk into bowl.'
     },
     {
       name: '6',
-      img: 'Hon häller lite mjölk i ints skål.'
+      img: "Versa un po' di latte nella sua ciotola."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'De små kattungarna är söta och roliga.'
+      img: 'I piccoli gattini sono carini e divertenti.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'De lägger alltid tassarna i skålen och spiller mjölken.'
+      img: 'Mettevano sempre le zampe nella ciotola e rovesciavano il latte.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Min farbror är väldigt händig.'
+      img: 'Mio zio è molto utile.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Han planterar grönsaker och blommor.'
+      img: 'Pianta ortaggi e fiori.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Mormor gör väldigt god sylt och stuvade frukter.'
+      img: 'La nonna fa ottime marmellate e composte di frutta.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jag hjälper morfar att plocka äpplen, päron, vindruvor och plommon.'
+      img: 'Aiuto il nonno a raccogliere mele, pere, uva e prugne.'
     }
   ]
 
