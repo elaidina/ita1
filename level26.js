@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Golvet och väggarna är blöta.'
+      img: 'Il pavimento e le pareti sono bagnate.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hon lyder aldrig.'
+      img: 'Non obbedisce mai.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Morfar måste dra fram en jättekålrot.'
+      img: 'Il nonno deve estrarre una rapa gigante.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Han drar och drar kålroten men han kan inte dra ut den.'
+      img: 'Tira e tira la rapa ma non può tirarla fuori.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Han måste ringa sitt barnbarn.'
+      img: 'Deve chiamare suo nipote.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'De drar tills kålroten kommer ut.'
+      img: 'Tirano fino a quando la rapa esca.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Alla faller på marken och skrattar.'
+      img: 'Cadono tutti a terra e ridono.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Varför kan inte djur prata?'
+      img: 'Perché non possono parlare gli animali?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'De kan men vi förstår dem inte.'
+      img: 'Possono ma non li capiamo.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Den hönan berättar historier för sina brudar.'
+      img: 'Quella gallina sta raccontando storie ai suoi pulcini.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Vad handlar historien om?'
+      img: 'Di cosa parla la storia?'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Berätta för mig historien, snälla.'
+      img: 'Dimmi la storia, per favore.'
     }
   ]
 

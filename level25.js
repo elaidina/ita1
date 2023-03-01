@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Fall inte.'
+      img: 'Non cadere.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Gå långsamt.'
+      img: 'Camminare piano.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Mina vänner gör en snögubbe.'
+      img: 'I miei amici stanno facendo un pupazzo di neve.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Min födelsedag är på vintern.'
+      img: 'Il mio compleanno è in inverno.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Folk fyller år bara en gång om året.'
+      img: "Le persone hanno il loro compleanno solo una volta all'anno."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Det är synd.'
+      img: 'È pietoso.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Min dotter föddes på torsdagen.'
+      img: 'Mia figlia è nata giovedì.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ingen vet varför katten är så fet."'
+      img: 'Nessuno sa perché il gatto è così grasso."'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Den lilla flickan kan knäppa tröjan men hon kan inte dra ihop jackan. '
+      img: 'La bambina può abbottonare il maglione ma non riesce a compensare la giacca. '
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Hon gillar att leka med vatten i badrummet.'
+      img: "Le piace giocare con l'acqua in bagno."
     },
     {
       name: '11',
@@ -87,11 +87,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Hon tvättar sina strumpor, skjorta och pyjamas.'
+      img: 'Si lava le calze, la camicia e il pigiama.'
     },
     {
       name: '12',
-      img: 'There´s a lot of water everywhere.'
+      img: "C'è molta acqua dappertutto."
     },
     {
       name: '12',
