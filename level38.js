@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Hon lade en engångsmask över näsan och munnen.'
+      img: 'Si è messa una maschera usa e getta sul naso e sulla bocca.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Vad är det till för?'
+      img: 'A che cosa serve?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Så att jag inte andas över dig.'
+      img: 'Così non respiro su di te.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Det är din tur nu.'
+      img: 'È il tuo turno ora.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Hon hittade ett litet hål i en av Toms tänder.'
+      img: 'Ha trovato un piccolo foro in uno dei denti di Tom.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jag ska rensa det där hålet och fylla på det.'
+      img: 'Pulirò quel buco e ci metterò un ripieno.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Det kommer att förhindra att bitar av mat kommer in och blir otäcka.'
+      img: 'Impedirà che pezzi di cibo entrino e diventino cattivi.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Sugröret i Toms mun gjorde roliga sugande ljud.'
+      img: 'Il tubo di aspirazione nella bocca di Tom faceva strani rumori di risucchio.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Sedan använde hon en borr för att rensa ut hålet i Toms tand.'
+      img: 'Poi ha usato un trapano sibilante per pulire il buco nel dente di Tom.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Sköterskan gav Tom ett glas rosa vatten för att skölja hans mun.'
+      img: "L'infermiera ha dato a Tom un bicchiere di acqua rosa per sciacquarsi la bocca."
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Tandläkaren torkade hålet med en liten luftfläkt, så att fyllningen skulle sitta tätt inuti.'
+      img: "Il dentista ha asciugato il foro con un piccolo soffiatore ad aria, in modo che l'otturazione aderisse bene all'interno."
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Sköterskan blandade en liten bit silverfyllning.'
+      img: "L'infermiera ha mescolato un po' di ripieno d'argento."
     }
   ]
 

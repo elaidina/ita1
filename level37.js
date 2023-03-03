@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Det var dags för Tom att shoppa.'
+      img: 'Era ora che Tom andasse a fare la spesa.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Medan jag satt i väntrummet läste hon serier.'
+      img: "Mentre ero seduto nella sala d'attesa, lei stava leggendo fumetti."
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Dörren öppnades och presidenten kom ut.'
+      img: 'La porta si è aperta ed è uscito il presidente.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Tom log till mig.'
+      img: 'Tom mi ha sorriso.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Varför måste du ha tandställning på dina tänder?'
+      img: 'Perché devi indossare un apparecchio ai denti?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Att göra mina tänder raka.'
+      img: 'Per raddrizzare i denti.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Laura är redo att träffa dig nu.'
+      img: 'Laura è pronta a vederti adesso.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Det här är en fin ren lukt.'
+      img: 'Questo è un buon odore di pulito.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Vem vill gå först?'
+      img: 'Chi vuole andare per primo?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Tom klättrade upp i tandläkarstolen.'
+      img: 'Tom è salito sulla poltrona del dentista.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Mrs White tryckte på en knapp och stolen lutade bakåt.'
+      img: "La signora White ha premuto un bottone e la sedia si è inclinata all'indietro."
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Tom kände sig som en raketpilot.'
+      img: 'Tom si sentiva come un pilota di missili.'
     }
   ]
 

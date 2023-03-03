@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Tom tittade på henne.'
+      img: "Tom l'ha osservata."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Mrs White tryckte in silverfilen i hålet på Toms tand.'
+      img: "La signora White ha spinto la limatura d'argento nel buco del dente di Tom."
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Hon tryckte ner den och gjorde den helt slät.'
+      img: "La signora White ha spinto la limatura d'argento nel buco del dente di Tom."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Bra som ny!'
+      img: 'Come nuovo!'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Gjorde det ont?'
+      img: 'Ha fatto male?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Drillen var stökig.'
+      img: 'Il trapano era rumoroso.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Men det gjorde inte ont.'
+      img: 'Ma non ha fatto male.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ni har båda bra tänder.'
+      img: 'Avete tutti e due dei bei denti.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Håll dem så.'
+      img: 'Tienili così.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ät mycket olika livsmedel.'
+      img: 'Mangia molti cibi diversi.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Men kom ihåg att söt mat kan skada dina tänder, så ät dem inte för ofta.'
+      img: 'Ma ricorda, i cibi dolci possono farti male ai denti, quindi non mangiarli troppo spesso.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Glöm aldrig att rengöra tänderna på morgonen och vid läggdags med en floride tandkräm.'
+      img: 'Non dimenticare mai di lavarti i denti al mattino e prima di coricarti con un dentifricio al florido.'
     }
   ]
 
