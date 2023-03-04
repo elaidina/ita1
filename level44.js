@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Glöm bara inte att hänga upp dina strumpor.'
+      img: 'Basta non dimenticare di appendere le calze.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Vi lämnar en morot ute till dina renar.'
+      img: 'Lasceremo fuori una carota per le tue renne.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Mamma kikade in för att se hur de hade det.'
+      img: 'La mamma ha sbirciato dentro per vedere come se la passavano.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Har de varit duktiga?'
+      img: 'Sono stati buoni?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Hon frågade jultomten.'
+      img: 'Ha chiesto a Babbo Natale.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Så bra att de förtjänar en liten present att öppna när de kommer hem.'
+      img: 'Così buono che meritano un regalino da aprire quando tornano a casa.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Han tog fram en present till Tom ur en säck.'
+      img: 'Così buono che meritano un regalino da aprire quando tornano a casa.'
     },
     {
       name: '8',

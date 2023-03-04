@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'De sökte igenom en låda med glittrande dekorationer.'
+      img: 'Hanno cercato in una scatola di decorazioni scintillanti.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Tom hittade en liten ängel för toppen av trädet.'
+      img: "Tom ha trovato un angioletto per la cima dell'albero."
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Du är jätte hjälpsam.'
+      img: 'Sei molto utile.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Det finns en speciell person som väntar på att träffa dig innan vi går hem.'
+      img: "C'è una persona speciale che ti aspetta prima di andare a casa."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Det lilla trähuset var täckt av snö.'
+      img: 'La piccola casa di legno era coperta di neve.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Kom in och träffa jultomten.'
+      img: 'Entra e incontra Babbo Natale.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Damen var klädd som en tomte.'
+      img: 'La signora era vestita da elfo.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Har ni varit bra barn?'
+      img: 'Siete stati bravi bambini?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ja alltid.'
+      img: 'Si Sempre.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Kommer du ner för skorstenen med presenter på julafton?'
+      img: 'Scenderai dal nostro camino con i regali la vigilia di Natale?'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Oroa dig inte.'
+      img: 'Non ti preoccupare.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jag ska vara där.'
+      img: 'Sarò lì.'
     }
   ]
 
