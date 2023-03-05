@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'På morgonen sprang han rakt ut för att bygga en snögubbe.'
+      img: 'La mattina è corso subito fuori per costruire un pupazzo di neve.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Pappa hjälpte dem och äntligen fick de en fantastisk snögubbe.'
+      img: 'Papà li ha aiutati e finalmente hanno avuto uno splendido pupazzo di neve.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Tom sprang inomhus och hämtade en gammal hatt till huvudet och en morot till näsan.'
+      img: 'Tom corse in casa e andò a prendere un vecchio cappello per la testa e una carota per il naso.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Det började bli mörkt.'
+      img: 'Si stava facendo buio.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'De fick en överraskning när de gick in i vardagsrummet.'
+      img: 'Hanno avuto una sorpresa quando sono entrati in soggiorno.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Julgranen var täckt av tindrande ljus, glitter och små leksaker.'
+      img: "L'albero di Natale era coperto di luci scintillanti, orpelli e piccoli giocattoli."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Rödhaken satt högst upp på trädets topp.'
+      img: "Il pettirosso era appollaiato proprio in cima all'albero."
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Det är inte rättvist.'
+      img: 'Non è giusto.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Min ängel borde vara på toppen.'
+      img: 'Il mio angelo dovrebbe essere in cima.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Kitty promenerade in i rummet och såg rödhaken.'
+      img: 'Kitty è entrata nella stanza e ha visto il pettirosso.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Äntligen var det julafton, kvällen när jultomten kommer.'
+      img: 'Finalmente era la vigilia di Natale, la notte in cui arriva Babbo Natale.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Tom gick och la sig, men han ville inte somna.'
+      img: 'Tom è andato a letto, ma non voleva andare a dormire.'
     }
   ]
 

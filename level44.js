@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Così buono che meritano un regalino da aprire quando tornano a casa.'
+      img: 'Ha tirato fuori un regalo per Tom da un sacco.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Tack så mycket."'
+      img: 'Grazie mille."'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Så fort han var tillbaka i bilen öppnade han sin present.'
+      img: 'Appena tornato in macchina ha aperto il suo regalo.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Jag har solglasögon!'
+      img: 'Ho gli occhiali da sole!'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Han var mycket nöjd.'
+      img: 'Era molto contento.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Det snöade mycket när han sov.'
+      img: 'Ha nevicato molto mentre dormiva.'
     }
   ]
 
