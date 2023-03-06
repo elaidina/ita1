@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Grazie mille."'
+      img: 'Grazie mille.'
     },
     {
       name: '9',

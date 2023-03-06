@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Nessuno sa perché il gatto è così grasso."'
+      img: 'Nessuno sa perché il gatto è così grasso.'
     },
     {
       name: '9',
