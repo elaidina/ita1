@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jag såg till att vattnet inte var för varmt.'
+      img: 'I made sure that the water was not too hot.'
     },
     {
       name: '4',

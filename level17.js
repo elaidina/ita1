@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Mi piace molto qui'
+      img: 'Mi piace molto qui.'
     },
     {
       name: '4',

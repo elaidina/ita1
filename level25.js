@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Det finns mycket vatten överallt.'
+      img: 'There´s a lot of water everywhere.'
     }
   ]
 

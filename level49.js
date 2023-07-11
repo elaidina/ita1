@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Presto ci fu il delizioso profumo di salsicce e pancetta..'
+      img: 'Presto ci fu il delizioso profumo di salsicce e pancetta.'
     },
     {
       name: '8',

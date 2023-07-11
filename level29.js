@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ha emerso un segnale acustico per affrettarci..'
+      img: 'Ha emerso un segnale acustico per affrettarci.'
     },
     {
       name: '11',
