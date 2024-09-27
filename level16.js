@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Jag måste fråga allaDevo chiedere a tutti.'
+      img: 'Devo chiedere a tutti.'
     },
     {
       name: '6',
